@@ -34,9 +34,4 @@
   <li>jQuery</li>
 </ul>
 
-<h2>Screenshots</h2>
-<!-- Add any relevant screenshots here -->
-
-<h2>License</h2>
-<p>This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.</p>
 
