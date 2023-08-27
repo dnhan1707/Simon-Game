@@ -18,9 +18,13 @@
 <h2>Installation and Usage</h2>
 <ol>
   <li>Clone the repository to your local machine.</li>
-  <li>Open the `index.html` file in a web browser.</li>
+  <li>Open the <code>index.html</code> file in a web browser.</li>
   <li>Follow the on-screen instructions to play the game.</li>
+  <li>To play the game online without downloading, access the live version at:
+    <a href="https://dnhan1707.github.io/Simon-Game/" target="_blank">https://dnhan1707.github.io/Simon-Game/</a>
+  </li>
 </ol>
+
 
 <h2>Technologies Used</h2>
 <ul>
